@@ -1,0 +1,27 @@
+{
+  "name": "pimienta_sal",
+  "version": "1.0.0",
+  "description": "Paractica integradora \"Vistas dinamicas EJS\" DH - sitio gastronomico Pimienta & Sal",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wleskovar/pimienta_sal.git"
+  },
+  "keywords": [
+    "express",
+    "ejs"
+  ],
+  "author": "Walter Leskovar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wleskovar/pimienta_sal/issues"
+  },
+  "homepage": "https://github.com/wleskovar/pimienta_sal#readme",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.1"
+  }
+}
